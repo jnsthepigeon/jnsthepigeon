@@ -41,13 +41,6 @@ Here are some ideas to get you started:
 
 ---
 
-### 🐍 Contribution Snake
-<div align="center">
-  <img src="https://raw.githubusercontent.com/jnsthepigeon/jnsthepigeon/output/snake.svg" alt="Snake animation" />
-</div>
-
----
-
 <!-- Optional footer -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jnsthepigeon&style=flat-square&color=lightgrey" alt="Profile views" />
