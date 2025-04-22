@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ### 🛠️ Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,vue,react,html,css,tailwind,git,linux,docker,postgres" />
+  <img src="https://skillicons.dev/icons?i=linux,git,docker,js,ts,nodejs,vue,react,html,css,postgres,go" />
 </div>
 
 ---
