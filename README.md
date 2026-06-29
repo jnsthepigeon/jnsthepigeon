@@ -18,6 +18,11 @@ Tooling    Git · Docker · Linux
 **GitHub Stats**
  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jnsthepigeon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jnsthepigeon&layout=compact&langs_count=5&theme=dracula&hide_border=true" height="150" />
+![](https://github-readme-stats.shion.dev/api?username=jnsthepigeon&theme=default&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=jnsthepigeon&theme=default&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=jnsthepigeon&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=jnsthepigeon&icon=0&color=0)](https://visitcount.itsvg.in)
+
 </div>
